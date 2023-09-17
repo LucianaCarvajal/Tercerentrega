@@ -2,6 +2,12 @@
 - Luciana Carvajal (usuario)
 - Leila Luna Ameneiro (usuario)
 
+# Fuente de dataset: ### Faltan los demas enlaces de los datasets
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+
+# Descripción de los datasets: 
+Los data sets corresponden a plataformas de medios de series y películas. Incluyen detalles como: reparto, directores, calificaciones, año de estreno, duración, etc. Los datos establecidos a utilizar son de las siguientes plataformas: amazon, hulu, disney y netflix.
+
 # Objetivo:
 Desarrollar un algoritmo de recomendación por similitud entre productos audiovisuales, utilizando elementos en comunes tales como el género, la trama, el elenco y el director para las películas de diferentes plataformas. 
 Se cuenta con conjuntos de datos de películas disponibles de las siguientes plataformas: Amazon Prime, Hulu, DisneyPlus y Netflix.
