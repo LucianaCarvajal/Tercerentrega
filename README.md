@@ -50,4 +50,5 @@ Para se cuenta con conjuntos de datos de películas disponibles de las siguiente
                                              ALL_AGES: Esta clasificación es para programación que es apropiada para todas las edades.   
 - duration: Tiempo desde comienzo y el fin de la película o serie. La unidad de medida del tiempo será en minutos para las películas y temporadas para series. Posteriormente se denominará "duracion".
 - listed_in: Géneros  y denominación de la clasificación según la plataforma en la que aparece listada la serie o película. Posteriormente se denominará "listado_en".
-- description: breve explicación en idioma ingles de descripcion e la trama de la serie o película. Posterioemente se denominará "descripción".
+- description: Breve explicación en idioma ingles de descripcion e la trama de la serie o película. Posterioemente se denominará "descripción".
+- plataforma: Indica a que plataforma pertenece la película.
