@@ -7,9 +7,9 @@ Desarrollar un algoritmo de recomendación por similitud entre productos audiovi
 Para se cuenta con conjuntos de datos de películas disponibles de las siguientes plataformas: Amazon Prime, HBO Max, DisneyPlus y Netflix.
 
 # Directorios
-### En la carpeta: /datasets se encuentran los conjuntos de datos primarios utilizados así como los generados a partir de la limpieza y procesamiento de datos.
+ En la carpeta: /datasets se encuentran los conjuntos de datos primarios utilizados así como los generados a partir de la limpieza y procesamiento de datos.
 
-### En la carpeta: /notebooks se encuentran los siguientes archivos: 
+ En la carpeta: /notebooks se encuentran los siguientes archivos: 
 - Limpieza y procesamiento general (se denominará: EDA INICIAL)
 - Procesamiento y análisis orientado al objetivo (se denominará Análisis)
 - Algoritmo
